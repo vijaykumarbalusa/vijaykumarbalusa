@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/vijaykumarbalusa">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,334155&height=280&section=header&text=Vijay%20Kumar%20Balusa&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20RAG%20Specialist%20%7C%20Agentic%20Systems&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" alt="Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,334155&height=280&section=header&text=Vijay%20Kumar%20Balusa&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20RAG%20Specialist%20%7C%20Agentic%20Systems&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" alt="Header" />
   </a>
 
   <a href="https://git.io/typing-svg">
@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 **About Me**
-I am a **Generative AI Engineer** focused on building intelligent systems that solve real enterprise problems. I specialize in **Multi-Agent Orchestration** and **High-Precision RAG**, moving beyond simple chatbots to build autonomous systems that drive business value.
+I am a **Generative AI & Machine Learning Engineer** focused on building intelligent systems that solve real enterprise problems. I specialize in **Multi-Agent Orchestration** and **High-Precision RAG**, moving beyond simple chatbots to build autonomous systems that drive business value.
 
 * 🔭 **Current Focus:** Advanced RAG (Hybrid Search, Semantic Chunking) and Agentic Workflows.
 * 🎓 **Education:** Master of Science in Information Systems, **Central Michigan University** (2025).
@@ -63,20 +63,17 @@ I am a **Generative AI Engineer** focused on building intelligent systems that s
 
 ---
 
-### 📊 **GitHub Activity**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykumarbalusa&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vijay-kumar-bvk03/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  <a href="https://www.linkedin.com/in/vijay-kumar-bvk03/">
+    <img src="https://img.shields.io/badge/Lets_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  <br />
+  <br />
   <a href="mailto:vijaybvk03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<br />
